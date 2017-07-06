@@ -63,7 +63,7 @@ Thread safety is guaranteed by synchronized blocks on write and CAS on read.
 Run local server with ```gradle bootRun```, after that you can peform request to localhost:8080:
 
 ```bash
- curl http://localhost:8080/statistics
+curl http://localhost:8080/statistics
 ```
 
 ```bash
